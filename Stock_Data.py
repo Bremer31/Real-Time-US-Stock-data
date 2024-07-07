@@ -58,7 +58,7 @@ class company_data_price:
           
                      
       def find_stock_price(self):
-          self.store_data()
+          #self.store_data()
           return self.find_data("regularMarketPrice") 
            
       def find_previous_close(self):
