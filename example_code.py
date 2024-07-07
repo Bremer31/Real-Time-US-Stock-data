@@ -19,3 +19,5 @@ avg_volume = company_prices.find_avg_volume()
 market_cap=company_prices.find_marketcap()
 
 
+###!! There are more things in this library. I just got lazy to put them all in 
+
