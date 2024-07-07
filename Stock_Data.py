@@ -165,8 +165,7 @@ class online_data:
             print("No yearly low!! ")
     
 
-company = company_data_price("AAPL")
-print(company.find_stock_price())
+
 
     
     
